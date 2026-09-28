@@ -29,14 +29,15 @@ Uma forma intuitiva de entender o AUC é pensar na capacidade do modelo de orden
 
 Por exemplo, imagine que escolhamos 10 pares de observações, cada par contendo um caso positivo e um negativo. Se o modelo atribuir uma pontuação maior ao positivo em 8 dos 10 pares, teríamos uma estimativa de AUC de aproximadamente 0,80.
 
-AUC	Interpretação
-1,0	Separação perfeita
-0,9 – 1,0	Excelente
-0,8 – 0,9	Boa
-0,7 – 0,8	Razoável
-0,5 – 0,7	Baixa
-0,5	Equivalente ao acaso
-< 0,5	Pior que o acaso
+| AUC | Interpretação |
+|---|---|
+| **1,0** | Separação perfeita |
+| **0,9 – 1,0** | Excelente |
+| **0,8 – 0,9** | Boa |
+| **0,7 – 0,8** | Razoável |
+| **0,5 – 0,7** | Baixa |
+| **0,5** | Equivalente ao acaso |
+| **< 0,5** | Pior que o acaso |
 
 Isso também explica por que o AUC é diferente da acurácia. A acurácia depende de um threshold específico, enquanto o AUC avalia a capacidade de discriminação do modelo considerando diferentes thresholds.
 
