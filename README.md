@@ -8,7 +8,7 @@ O objetivo é ajudar estudantes e profissionais a se prepararem para processos s
 
 As questões são organizadas por tipo de empresa:
 
-* [Big Tech](./big-Tech)
+* [Big Tech](./big-tech)
 * [Consultoria](./consultoria)
 * [Fintech](./fintech)
 * [Bancos](./bancos)
