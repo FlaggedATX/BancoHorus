@@ -1,6 +1,6 @@
 # Banco Horus
 
-Repositório colaborativo para compartilhamento de questões, soluções e experiências de **entrevistas técnicas no Brasil**.
+Repositório colaborativo para compartilhamento de questões e soluções de **entrevistas técnicas no Brasil**.
 
 O objetivo é ajudar estudantes e profissionais a se prepararem para processos seletivos por meio de experiências e conhecimentos compartilhados pela comunidade.
 
