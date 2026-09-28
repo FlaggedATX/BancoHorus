@@ -13,7 +13,6 @@ As questões são organizadas por tipo de empresa:
 * [Fintech](./fintech)
 * [Bancos](./bancos)
 * [E-commerce](./E-commerce)
-* [Telecomunicações](./Telecomunicacoes)
 * [Software](./Software)
 * [Startups](./Startups)
 
