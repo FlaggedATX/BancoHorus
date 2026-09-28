@@ -36,6 +36,8 @@ Cada questão deve conter, quando possível:
 
 ## Contribuições
 
-Contribuições são bem-vindas. Para adicionar uma questão, utilize os modelos em [`templates/`](./templates), informe sua fonte e explique a solução.
+Contribuições são bem-vindas. Para adicionar uma questão, utilize os modelos em [`templates/`](./templates).
 
-> **Aprender, compartilhar e ajudar outras pessoas a se prepararem.**
+**OBS:**
+Ao enviar uma questão, é responsabilidade do contribuidor garantir que sua publicação não viole qualquer NDA, acordo de confidencialidade, segredo comercial ou outra obrigação legal ou contratual à qual esteja sujeito.
+Não envie informações confidenciais, internas ou protegidas.
