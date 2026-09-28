@@ -27,7 +27,6 @@ Cada questão deve conter, quando possível:
 * Raciocínio
 * Solução
 * Explicação
-* Complexidade
 * Possíveis perguntas de acompanhamento
 * Fonte
 
