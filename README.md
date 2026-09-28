@@ -12,9 +12,9 @@ As questões são organizadas por tipo de empresa:
 * [Consultoria](./consultoria)
 * [Fintech](./fintech)
 * [Bancos](./bancos)
-* [E-commerce](./E-commerce)
-* [Software](./Software)
-* [Startups](./Startups)
+* [E-commerce](./e-commerce)
+* [Software](./software)
+* [Startups](./startups)
 
 Dentro de cada categoria, as questões podem ser organizadas por cargo e assunto.
 
