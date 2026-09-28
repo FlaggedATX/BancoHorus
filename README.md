@@ -32,15 +32,6 @@ Cada questão deve conter, quando possível:
 * Possíveis perguntas de acompanhamento
 * Fonte
 
-### Origem
-
-As questões devem indicar sua origem:
-
-* `oficial` — publicada oficialmente
-* `relato` — relatada publicamente por candidato
-* `reconstruída` — baseada em relato público
-* `prática` — criada para estudo
-
 **Não adicione conteúdo confidencial, protegido por NDA ou informações internas de empresas.**
 
 ## Contribuições
