@@ -34,7 +34,7 @@ Cada questão deve conter, quando possível:
 
 ## Contribuições
 
-Contribuições são bem-vindas. Para adicionar uma questão, utilize os modelos em [`templates/`](./templates).
+Contribuições são bem-vindas. Para adicionar uma questão, utilize os modelos em [`TEMPLATE`](TEMPLATE.md).
 
 **OBS:**
 Ao enviar uma questão, é responsabilidade do contribuidor garantir que sua publicação não viole qualquer NDA, acordo de confidencialidade, segredo comercial ou outra obrigação legal ou contratual à qual esteja sujeito.
