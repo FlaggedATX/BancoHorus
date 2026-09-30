@@ -12,7 +12,7 @@ As questões são organizadas por tipo de área de conhecimento:
 * [Dados](./Dados)
 * [EngenhariaDeSoftware](./EngenhariaDeSoftware)
 
-OBS: Temos a pasta [Outros](./outros) caso sua questão não se encaixe em alguma categoria existente. Tenha em mente que isso é um status temporário e a mesma será movida para uma pasta mais apropriada assim que a mesma for criada.
+OBS: Temos a pasta [Outros](./outros) caso sua questão não se encaixe em alguma categoria existente. Tenha em mente que isso é um status temporário e a questão será movida para uma pasta mais apropriada assim que a mesma for criada.
 
 ## Questões
 
