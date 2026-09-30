@@ -6,17 +6,13 @@ O objetivo é ajudar estudantes e profissionais a se prepararem para processos s
 
 ## Categorias
 
-As questões são organizadas por tipo de empresa:
+As questões são organizadas por tipo de área de conhecimento:
 
-* [Big Tech](./big-tech)
-* [Consultoria](./consultoria)
-* [Fintech](./fintech)
-* [Bancos](./bancos)
-* [E-commerce](./e-commerce)
-* [Software](./software)
-* [Startups](./startups)
+* [Cibersegurança](./Cibersegurança)
+* [Dados](./Dados)
+* [EngenhariaDeSoftware](./EngenhariaDeSoftware)
 
-Dentro de cada categoria, as questões podem ser organizadas por cargo e assunto.
+OBS: Temos a pasta [Outros](./outros) caso sua questão não se encaixe em alguma categoria existente. Tenha em mente que isso é um status temporário e a mesma será movida para uma pasta mais apropriada assim que a mesma for criada.
 
 ## Questões
 
